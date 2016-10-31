@@ -1,0 +1,3 @@
+Dataset:
+1)	Tech Companies – Projects hosted on GitHub by Google, Microsoft, Facebook etc. E.g., https://github.com/google, https://github.com/microsoft, https://github.com/facebook. Many of these projects are regularly used within these organizations.
+2)	Government Agencies – Projects from government agencies around the globe (https://government.github.com/community/). This is a huge dataset which has been largely untapped and can provide insights about projects governments around the world are undertaking such as fighting crimes, energy related projects etc.
